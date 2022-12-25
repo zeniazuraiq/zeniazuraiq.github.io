@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iisc.ac.in/'>IISc Bangalore</a>
+subtitle: <a href='https://iisc.ac.in/'>Indian Institute of Science, Bangalore</a>
 
 profile:
   align: right 

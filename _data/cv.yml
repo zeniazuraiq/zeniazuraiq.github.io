@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Ph.D. (Theoretical Physics)
-      institution: Indian Institute of Science (IISc), Bengaluru
+      institution: Indian Institute of Science (IISc), Bangalore
       year: 2022 - Present
    
     - title: M.Sc. (Physics)
@@ -61,7 +61,3 @@
     - title: Computational Physics
     - title: Science/STEM Education and Communication
 
-- title: Other Interests
-  type: list
-  contents:
-    - Playing Guitar, Reading, Writing
