@@ -1,7 +1,9 @@
 This is my first effort at making a personal, acaemic website to showcase my efforts - research and otherwise.
 Built using the [**al-folio**](https://github.com/alshedivat/al-folio) theme.
 
-### Maintainers
+---
+
+### al-folio Maintainers
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
