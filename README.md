@@ -1,4 +1,5 @@
-This is my first effort at making a personal, academic website to showcase my efforts - research and otherwise.
+This is my first effort at making a personal, academic website to showcase my interests - research and otherwise.
+
 Built using the [**al-folio**](https://github.com/alshedivat/al-folio) theme.
 
 ---
