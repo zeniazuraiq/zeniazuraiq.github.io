@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Zenia Zuraiq
-    - name: Date of Birth
-      value: 06th June 2000
-    - name: Languages
-      value: English, Malayalam, Hindi, Tamil
+    - name: Current Position
+      value: Ph.D. student at IISc Bangalore
+    #- name: Date of Birth
+      #value: 06th June 2000
+    - #name: Languages
+      #value: English, Malayalam, Hindi, Tamil
 
 - title: Education
   type: time_table
@@ -38,18 +40,18 @@
       institution: Stella Maris College, Chennai
       year: Jul 2019 - Oct 2019
       
-- title: Academic Highlights
-  type: time_table
-  contents: 
-    - year: 2022
-      items: 
-        - Awarded <b>Prime Minister's Research Fellowship</b> (Aug 2022, Direct Entry)
-        - AIR 36, CSIR NET-JRF (Jun session)
-        - AIR 51, GATE (PH)
-        - AIR 198, JEST
-    - year: 2020
-      items: 
-      - AIR 669, JAM (PH)   
+#- title: Academic Highlights
+#  type: time_table
+ # contents: 
+  #  - year: 2022
+   #   items: 
+    #    - Awarded <b>Prime Minister's Research Fellowship</b> (Aug 2022, Direct Entry)
+     #   - AIR 36, CSIR NET-JRF (Jun session)
+      #  - AIR 51, GATE (PH)
+       # - AIR 198, JEST
+   # - year: 2020
+    #  items: 
+     # - AIR 669, JAM (PH)   
         
 
 - title: Academic Interests
