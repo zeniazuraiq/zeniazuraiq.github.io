@@ -6,7 +6,7 @@ description: No physics here (mostly) 🙃
 nav: true
 nav_order: 5
 ---
-> No matter how corrupt, greedy, and heartless our government, our corporations, our media, and our religious & charitable institutions may become, the music will still be wonderful.  
+> No matter how corrupt, greedy, and heartless our government, our corporations, our media, and our religious & charitable institutions may become, the music will still be wonderful.    
 > *Kurt Vonnegut*
 
 Just like anyone else, I enjoy good music, good books and good movies. I try my best to make sure I explore as much of these as I can. 
