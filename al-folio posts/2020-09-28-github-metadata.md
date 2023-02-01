@@ -1,4 +1,4 @@
-<!--
+
 ---
 layout: post
 title:  a post with github metadata
@@ -34,4 +34,3 @@ A sample blog page that demonstrates the accessing of github meta data.
 {% for contributor in site.github.contributors %}
   * {{ contributor.login }}
 {% endfor %}
--->
