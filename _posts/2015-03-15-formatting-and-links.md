@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  a post with formatting and links
