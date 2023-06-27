@@ -4,13 +4,25 @@
     - name: Full Name
       value: Zenia Zuraiq
     - name: Current Position
-      value: Ph.D. student at IISc Bangalore
+      value: Ph.D. student and PMRF scholar at IISc Bangalore
     - name: E-mail ID
       value: zeniazuraiq@gmail.com, zeniazuraiq@iisc.ac.in
     #- name: Date of Birth
       #value: 06th June 2000
     - #name: Languages
       #value: English, Malayalam, Hindi, Tamil
+
+- title: Short-term Research Projects
+  type: time_table
+  contents:
+    - title: Study of Magnetic catackysmic variable (CV) system, *BY Cam*
+    - title: Observation of 21cm line using custom-made radio telescope from Milky Way galactic plane
+      institution: National Institute of Technology (NIT), Tiruchirappalli
+      year: Jan 2022 - Aug 2022
+        
+    - title: Synthesis, characterisation and photocatalytic evalutation of cobalt ferrite nanoparticles from Moringa Oleifera
+      institution: Stella Maris College, Chennai
+      year: Jul 2019 - Oct 2019
 
 - title: Education
   type: time_table
@@ -30,17 +42,6 @@
       year: 2017 - 2020
       description:
         - Undegraduate Dissertation - <i>Investigation on the optical properties of Titanium nanoparticles in the treatment of waste water</I>. 
-
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: Observation of 21cm line using custom-made radio telescope from Milky Way galactic plane
-      institution: National Institute of Technology (NIT), Tiruchirappalli
-      year: Jan 2022 - Aug 2022
-        
-    - title: Synthesis, characterisation and photocatalytic evalutation of cobalt ferrite nanoparticles from Moringa Oleifera
-      institution: Stella Maris College, Chennai
-      year: Jul 2019 - Oct 2019
       
 #- title: Academic Highlights
 #  type: time_table
