@@ -32,14 +32,14 @@
       #year: Jul 2019 - Oct 2019
 
 - title: Academic Interests
-  type: map
+  type: nested_list
   contents:
     - title: Theoretical Astrophysics (compact stars)
       #items: 
       #  - Compact stars - Mass-radius relationship, Equations of state, Maximum mass supported by hydrostatic equilibrium
     - title: Computational Physics
     - title: Science/STEM Education and Communication
-
+    
 - title: Education
   type: time_table
   contents:
