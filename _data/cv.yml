@@ -59,7 +59,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Theoretical Astrophysics (compact star modelling)
+    - title: Theoretical Astrophysics (compact stars)
       #items: 
       #  - Compact stars - Mass-radius relationship, Equations of state, Maximum mass supported by hydrostatic equilibrium
     - title: Computational Physics
