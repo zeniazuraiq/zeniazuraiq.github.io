@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: Trying to summarise the work I do!
 nav: true
 nav_order: 4
 #display_categories: [work, fun]
