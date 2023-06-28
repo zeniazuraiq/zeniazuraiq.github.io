@@ -17,7 +17,7 @@ Stars have a life cycle, living and dying based on how long they can push back a
 
 What happens next to the star is determined by its mass. A massive enough star is collapsed completely by gravity - this is when we get a <i>black hole</i>. Less massive stars can still achieve hydrostatic equilibrium - these end up as <i>white dwarfs</i> and <i>neutron stars</i>. 
 
-These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - studying their properties through theoretical modelling. 
+These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - and this page collects (semi-regularly) updated summaries of said work.
 
 <!-- pages/projects.md -->
 <div class="projects">
