@@ -4,7 +4,7 @@ title: Fermionic compact stars
 description: M.Sc. Thesis
 img: assets/img/12.jpg
 importance: 1
-category: 
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
