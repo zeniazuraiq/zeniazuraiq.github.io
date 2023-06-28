@@ -1,80 +1,27 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: cataclysmic variables
+description: a rare observational foray
+img: assets/img/cv.png
 importance: 2
-category: work
+category: projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cataclysmic variables (CVs) are binary systems consisting of an accreting white dwarf (AWD) along with a mass-transferring, Roche-lobe filling secondary star. CVs can be both magnetic and non-magnetic, with the classification depending on whether or not the magnetic field of the white dwarf is enough to control the accretion flow. If the accretion process continues till the white dwarf reaches close to the Chandrasekhar limit, the process may lead to a runaway carbon fusion and trigger a Type Ia supernova explosion which destroys the white dwarf.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+There are a few anomalous magnetic CVs that are classified as asynchronous polars. An asynchronous polar shows all the physical properties of a polar system but with a slight mismatch (< 1%) in their spin and orbit period. One of the most common theories for the origin of this asynchronicity is that the system was previously synced up until a nova explosion broke up this synchronicity by changing the white dwarf’s rotation period. One such source, BY Cam, was studied in this project.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+BY Cam is an asynchronous polar system, located at celestial coordinates 𝛼 = 05: 43: 48.8015, 𝛿 = 60: 51: 31.37, at a distance of 264.5 pc. It has a slight mismatch between its spin and orbit periods – with a spin period of 𝑃𝑠𝑝𝑖𝑛 = 11963.04 𝑠 and orbit period 𝑃𝑜𝑟𝑏𝑖𝑡 = 12074.64 𝑠.The data analyzed in this project was taken from a ~ 30 ks NuSTAR observation made between 12th and 13th November 2018. Analysis was done using imaging, spectral, and timing techniques using toold from NASA'S high energy astrophysics software, HEASOFT.
+
+Timing analysis, done using epoch folding, indicated a one-pole accretion in the system. Spectral analysis was done by modelling the NuSTAR X-Ray spectrum using various physical processes - including post-shock plasma cooling through brehmsstrahlung, compton reflection, and ISM absorption. Alternate cooling models, like mekal, were also used. Through the spectral analysis, we obtained a lower bound on the white dwarf mass as close to 0.6 Msol. The flux and luminosity of the source were also estimated. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mekal.png" title="spectral" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    One of the results from spectral fitting. Plasma cooling is modelled here by "mekal" emission, with compton reflection and ISM absorption included.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<i> This is a brief description of work I did as part of IISc's Astronomical Techniques course, under the supervision of Prof. Vikram Rana. Spectral fitting graph generated using HEASOFT. CV accretion diagram courtesy of NASA. </i>
