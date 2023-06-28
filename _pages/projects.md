@@ -4,7 +4,7 @@ title: research
 permalink: /projects/
 description: Trying to summarise the work I do!
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [projects]
 horizontal: false
 ---
