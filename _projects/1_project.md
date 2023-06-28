@@ -15,8 +15,6 @@ The arguments made above can be generalised to any fermion, not just electrons. 
 
 Further repulsive interactions, not connected to the fermionic nature of the star, can be introduced. In our work, we considered the causal limit of repulsive interactions - the Zeldovich interaction. In doing so, we were able to link a further scale to the two masses mentioned earlier. The scale of the mediator vector boson responsible for the interactions. 
 
-<i> This is a brief description of work I did as part of my M.Sc. thesis, at NIT Tiruchirappalli, under the supervision of Dr. Somnath Mukhopadhyay. All figures used here are generated using Python 3.7.6. </i>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/500 MeV.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -31,3 +29,5 @@ Further repulsive interactions, not connected to the fermionic nature of the sta
 <div class="caption">
   Some of the results from this line of work. On the left, a typical mass-radius curve for stars made of 500 MeV free fermion gas. The center picture establishes the link between the maximum "limiting" mass and the mass of the constituents of the star. The rightmost picture shows a variation of the mass-radius curve with different interaction strengths.
 </div>
+
+<i> This is a brief description of work I did as part of my M.Sc. thesis, at NIT Tiruchirappalli, under the supervision of Dr. Somnath Mukhopadhyay. All figures used here are generated using Python 3.7.6. </i>
