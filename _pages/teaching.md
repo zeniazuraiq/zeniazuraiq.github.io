@@ -14,7 +14,9 @@ horizontal: false
 - Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
 *Fifth Zeldovich Meeting, Yerevan, Armenia (Jun 2023)*
 
-###  MISC. TALKS
+\\ 
+
+### MISC. TALKS
 
 - Overview of fermionic compact stars 
     - Talk I : Non-interacting stars and white dwarfs
@@ -33,6 +35,7 @@ horizontal: false
 - Space Debris
 *Talk at Loyola Astronomy and Rocketry Club (Feb 2019)*
 
+\\ 
 
 ### TEACHING/OUTREACH ACTIVITIES
 
