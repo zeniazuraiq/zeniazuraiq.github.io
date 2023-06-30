@@ -8,3 +8,5 @@ nav_order: 5
 #display_categories: [conferences,teaching,talks]
 horizontal: false
 ---
+
+<head>Conferences</head>
