@@ -4,7 +4,7 @@ permalink: /misc/
 title: miscellaneous
 description: No physics here (mostly) 🙃
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 > No matter how corrupt, greedy, and heartless our government, our corporations, our media, and our religious & charitable institutions may become, the music will still be wonderful.    
 > *Kurt Vonnegut*
