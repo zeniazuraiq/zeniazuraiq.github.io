@@ -23,6 +23,7 @@ horizontal: false
     - Talk I : Non-interacting stars and white dwarfs
     - Talk II : Introducing interactions 
 <br>
+
 - The Sun and our Solar System \
 *Public Talk, IISc Open Day 2023*
 
