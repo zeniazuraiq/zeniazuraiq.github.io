@@ -19,10 +19,9 @@ horizontal: false
 ### MISC. TALKS
 
 - Overview of fermionic compact stars \
+Talk I : Non-interacting stars and white dwarfs\
+Talk II : Introducing interactions \
 *PMRF outreach talk series: [Christ University, Bangalore](https://christuniversity.in/uploads/event/Zenia_WC_flyer_20230222045740.pdf) (Feb-Apr 2023)*
-    - Talk I : Non-interacting stars and white dwarfs
-    - Talk II : Introducing interactions 
-
 
 - The Sun and our Solar System \
 *Public Talk, IISc Open Day 2023*
