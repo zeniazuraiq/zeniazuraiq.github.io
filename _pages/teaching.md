@@ -14,14 +14,16 @@ horizontal: false
 - Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
 *[Fifth Zeldovich Meeting](https://indico.icranet.org/event/6/contributions/1417/), Yerevan, Armenia (Jun 2023)*
 
-\  
+
 
 ### MISC. TALKS
 
 - Overview of fermionic compact stars 
     - Talk I : Non-interacting stars and white dwarfs
     - Talk II : Introducing interactions \
+
 *PMRF outreach talk series: [Christ University, Bangalore](https://christuniversity.in/uploads/event/Zenia_WC_flyer_20230222045740.pdf) (Feb-Apr 2023)*
+
 
 - The Sun and our Solar System \
 *Public Talk, IISc Open Day 2023*
@@ -35,7 +37,7 @@ horizontal: false
 - Space Debris \
 *Talk at Loyola Astronomy and Rocketry Club (Feb 2019)*
 
-\  
+
 
 ### TEACHING/OUTREACH ACTIVITIES
 
