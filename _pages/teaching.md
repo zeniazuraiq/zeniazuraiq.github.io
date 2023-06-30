@@ -23,6 +23,7 @@ horizontal: false
     - Talk I : Non-interacting stars and white dwarfs
     - Talk II : Introducing interactions 
 
+
 - The Sun and our Solar System \
 *Public Talk, IISc Open Day 2023*
 
@@ -39,6 +40,6 @@ horizontal: false
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc [Jan 2023 - Jun 2023]
+- Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc (Jan 2023 - Jun 2023)
 
-- External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants", conducted by NIT-T [May 2023] 
+- External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants", conducted by NIT-T (May 2023)
