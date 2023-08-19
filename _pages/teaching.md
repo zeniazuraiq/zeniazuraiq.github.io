@@ -9,10 +9,12 @@ nav_order: 5
 horizontal: false
 ---
 
-### CONFERENCES ATTENDED
+### CONFERENCES, WORKSHOPS, MEETINGS
 
-- Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
+- **Talk** : Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
 *[Fifth Zeldovich Meeting](https://indico.icranet.org/event/6/contributions/1417/), Yerevan, Armenia (Jun 2023)*
+- **Poster** : Simulating magnetised super-Chandrasekhar white dwarf using STARS \
+*[3rd Conference on Plasma Simulations](https://www.ipr.res.in/CPS/CPS-2022/), Raman Science Center, IIA, Leh, India (Jul 2023)*
 
 
 
@@ -39,6 +41,8 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc (Jan 2023 - Jun 2023)
+- Teaching introductory astronomy to class IX students at SPARC Public School, Bengaluru (Aug 2022 - Present)
+
+- Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc Bengaluru (Jan 2023 - Jun 2023)
 
 - External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants", conducted by NIT-T (May 2023)
