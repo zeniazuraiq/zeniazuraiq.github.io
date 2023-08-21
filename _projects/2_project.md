@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cataclysmic variables
-description: a rare observational foray
+description: a observational foray
 img: assets/img/cv.png
 importance: 2
 category: projects
