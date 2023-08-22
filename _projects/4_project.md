@@ -4,7 +4,7 @@ title: Massive neutron stars
 description: investigating EOS and magnetic effects
 img: assets/img/eos.png
 importance: 1
-category: projects
+category: work
 ---
 
 The first neutron star (a pulsar) was discovered accidentally by then graduate student Jocelyn Bell Burnell more than fifty years ago. Ever since, everything we learn about these objects confirms the fact that neutron stars are some of the most extreme objects in our Universe. A typical neutron star contains something like the mass of the sun within just a 10 km radius. At their cores, neutron stars can reach densities several times the nuclear saturation density (the densities within atoms). These stars are probably the only laboratory that we know of at present that exhibit matter existing in such extreme conditions. In fact, the conditions are so extreme within neutron stars that we still do not know the exact equation of state (EOS) that governs these objects. Strong interactions particularly are poorly constrained at these high densities. This is why there is no fixed "Chandrasekhar" type exact limiting mass for neutron stars.
@@ -24,7 +24,7 @@ In this work, we bring all the above considerations together to investigate mass
     </div>
 </div>
 <div class="caption">
-    A slide from "Exploring massive neutron stars towards mass gap: constraining the high density nuclear EOS" - a talk discussing early results given at the Fifth Zeldovich Meeting (Yerevan, Armenia). This slide shows how introducing anisotropy (controlled by \kappa parameter) and different orientations of the magnetic field ultimately changes the mass-radius relationship and limiting mass of the star, particularly for the DDME2 EOS.
+    A slide from "Exploring massive neutron stars towards mass gap: constraining the high density nuclear EOS" - a talk discussing early results given at the Fifth Zeldovich Meeting (Yerevan, Armenia). This slide shows how introducing anisotropy (controlled by \kappa parameter) and different orientations of the magnetic field ultimately changes the mass-radius relationship and limiting mass of the star.
 </div>
 
 <i> This is a brief description of on-going work done in collaboration with Prof. Banibrata Mukhopadhyay of IISc and Prof. Fridolin Weber of San Diego State University. All plots generated using Python 3.6.9. </i>
