@@ -1,80 +1,30 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Massive neutron stars
+description: investigating EOS and magnetic effects
+img: assets/img/eos.png
+importance: 1
+category: projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The first neutron star (a pulsar) was discovered accidentally by then graduate student Jocelyn Bell Burnell more than fifty years ago. Ever since, everything we learn about these objects confirms the fact that neutron stars are some of the most extreme objects in our Universe. A typical neutron star contains something like the mass of the sun within just a 10 km radius. At their cores, neutron stars can reach densities several times the nuclear saturation density (the densities within atoms). These stars are probably the only laboratory that we know of at present that exhibit matter existing in such extreme conditions. In fact, the conditions are so extreme within neutron stars that we still do not know the exact equation of state (EOS) that governs these objects. Strong interactions particularly are poorly constrained at these high densities. This is why there is no fixed "Chandrasekhar" type exact limiting mass for neutron stars.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Different high density EOSs have been proposed over the years. A very popular class of phenomenological EOSs are the relativistic mean field models. Dense matter EOSs are constrained in two ways  - astrophysically, from neturon star observations; and from laboratory measurements of the properties of nuclear matter at saturation density. Each of these EOSs result in a specific mass-raidus relationship for the neutron star, with each supporting a certain maximum mass. Additionally, at the high densities in neutron star cores, exotic particles, which do not exist in stable form terrestrially, can further be present leading to further complexity.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Massive neutron stars are then of interest in multiple ways. Observationally detecting more massive neutron stars allows us to constrain and rule out more and more of this unknown high density paradigm of nuclear matter. On the other hand, there exists a well known "mass gap" in the literature between ~ 2.5 and 5 solar masses. With gravitational wave observations such as GW190814, this gap is slowly shrinking and it could be that massive neutron stars are what end up populating it. It all then comes back to the question - <b>How heavy can a neutron star get? </b>
+
+On the other hand, as with any compact star, it is not only the EOS which determines mass but also additional effects that serve to push against gravity. One effect in particular, that serves to be extremely relevant, both observations and in the interest of "massive" neutron stars is the underlying magnetic field. High magnetic fields can have many effects - in fact, a high enough field can lead to microscopic changes in the EOS itself. Magnetic fields can also lead to the star being generally anisotropic and deviating from spherical symmetry.
+
+In this work, we bring all the above considerations together to investigate massive, magnetized neutron stars. We consdier a few phenomenological EOSs, which we felt best fit both the constraints mentioned above. We assume approximate spherical symmetry and introduce an analytical model for both the magnetic field (considered with two different orientations - radial and transverse) and a general model for the anisotropy (adapted from Bowers and Liang). We have also included the exotic hyperon and delta particles in our EOSs considered. It appears that under all these physical effects working together, mass gap type massive neutron stars could very well exist.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/magnetised_ns.jpg" title="mag ns" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    A slide from "Exploring massive neutron stars towards mass gap: constraining the high density nuclear EOS" - a talk discussing early results given at the Fifth Zeldovich Meeting (Yerevan, Armenia). This slide shows how introducing anisotropy (controlled by \kappa parameter) and different orientations of the magnetic field ultimately changes the mass-radius relationship and limiting mass of the star, particularly for the DDME2 EOS.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<i> This is a brief description of on-going work done in collaboration with Prof. Banibrata Mukhopadhyay of IISc and Prof. Fridolin Weber of San Diego State University. All plots generated using Python 3.6.9. </i>
