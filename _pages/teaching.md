@@ -46,6 +46,8 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
+- Teaching UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2022 - Present)
+
 - Teaching introductory astronomy to class IX students at SPARC Public School, Bengaluru (Aug 2022 - Present)
 
 - Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc Bengaluru (Jan 2023 - Jun 2023)
