@@ -11,8 +11,10 @@ horizontal: false
 
 ### CONFERENCES, WORKSHOPS, MEETINGS
 
-- **Talk**: Simulating super-Chandrasekhar white dwarfs \ *[International Symposium on Recent Development in Relativistic Astrophysics” (ISRA 2023)](https://srmus.ac.in/ISRA2023), Gangtok, India (Dec 2023)*
-- **Talk**: Massive, magnetized compact stars: Theory and Simulation \ *[10th International Conference on Gravitation and Cosmology: New Horizons and Singularities in Gravity (ICGC 2023)](https://indico.cern.ch/event/1268737/contributions/5629408/), Guwahati, India (Dec 2023)*
+- **Talk**: Simulating super-Chandrasekhar white dwarfs \
+*[International Symposium on Recent Development in Relativistic Astrophysics” (ISRA 2023)](https://srmus.ac.in/ISRA2023), Gangtok, India (Dec 2023)*
+- **Talk**: Massive, magnetized compact stars: Theory and Simulation \
+*[10th International Conference on Gravitation and Cosmology: New Horizons and Singularities in Gravity (ICGC 2023)](https://indico.cern.ch/event/1268737/contributions/5629408/), Guwahati, India (Dec 2023)*
 - **(Online) Talk** : Massive neutron stars: effects of EOSs and magnetic field \
 *[ECT* workshop: Strongly interacting matter in extreme magnetic fields](https://indico.ectstar.eu/event/180/contributions/4192/), Trento, Italy (Sep 2023)*
 - **Talk** : Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
