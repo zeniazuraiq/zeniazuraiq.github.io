@@ -11,6 +11,8 @@ horizontal: false
 
 ### CONFERENCES, WORKSHOPS, MEETINGS
 
+- **Talk**: Simulating super-Chandrasekhar white dwarfs \ *[International Symposium on Recent Development in Relativistic Astrophysics” (ISRA 2023)](https://srmus.ac.in/ISRA2023), Gangtok, India (Dec 2023)*
+- **Talk**: Massive, magnetized compact stars: Theory and Simulation \ *[10th International Conference on Gravitation and Cosmology: New Horizons and Singularities in Gravity (ICGC 2023)](https://indico.cern.ch/event/1268737/contributions/5629408/), Guwahati, India (Dec 2023)*
 - **(Online) Talk** : Massive neutron stars: effects of EOSs and magnetic field \
 *[ECT* workshop: Strongly interacting matter in extreme magnetic fields](https://indico.ectstar.eu/event/180/contributions/4192/), Trento, Italy (Sep 2023)*
 - **Talk** : Exploring massive neutron stars towards the mass gap : constraining the high density nuclear equation of state \
@@ -46,9 +48,9 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- Teaching UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Present)
+- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023)
 
-- Teaching introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Present)
+- Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
 
 - Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc Bengaluru (Jan 2023 - Jun 2023)
 
