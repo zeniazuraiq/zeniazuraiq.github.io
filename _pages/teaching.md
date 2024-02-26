@@ -58,6 +58,8 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
+- PMRF Teaching Assistant for the 8-week NPTEL course: Nuclear Astrophysics (Jan 2024 - Present) | [Course page](https://zeniazuraiq.github.io/nptel/nuclear_astro/)
+
 - Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023)
 
 - Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
