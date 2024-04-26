@@ -11,6 +11,15 @@ horizontal: false
 
 ### CONFERENCES, WORKSHOPS, MEETINGS
 
+- **Poster**: Massive neutron stars as mass gap candidates \
+*PMRF Annual Symposium, Indore, India (Mar 2024)*
+
+- Attended the meeting - *Pulsar Timing Array Experiments: Present and Future of Indian Collaboration (Feb 2024)*
+
+- **Poster**: Simulating super-Chandrasekhar white dwarf from
+main sequence star: Exploring stellar evolution codes STARS and MESA \
+*42nd annual meeting of the Astronomical Society of India, Bangalore, India (Feb 2024)*
+
 - **Talk**: Simulating super-Chandrasekhar white dwarfs \
 *[International Symposium on Recent Development in Relativistic Astrophysics” (ISRA 2023)](https://srmus.ac.in/ISRA2023), Gangtok, India (Dec 2023)*
 
