@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: nuclear astrophysics (NPTEL)
       permalink: /nptel/nuclear_astro/
+    - title: divider
+    - title: introductory astronomy
+      permalink: /intro_astro/
 ---
