@@ -67,7 +67,7 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- Teaching a value-added course on [introductory Astronomy and Astrophysics] at M.S. Ramaiah University of Applied Sciences (https://zeniazuraiq.github.io/nptel/intro_astro/) (Apr 2024 - Present) 
+- Teaching a value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/nptel/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Present) 
 
 - PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
