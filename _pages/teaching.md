@@ -51,10 +51,13 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 - Instytut Fizyki Teoretycznej,UniwersytetWroclawski (University of Wroclaw) \
 *Wroclaw, Poland (Jul 2024)*
+
 - University of Warsaw \
 *Warsaw, Poland (Jul 2024)*
+
 - ICRANet-Ferrara, University of Ferrara \
 *Ferrara, Italy (Jun 2024)*
+
 - Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration \
 *The Institute ofMathematical Sciences, Chennai, India*
 
