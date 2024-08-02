@@ -49,7 +49,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
-- Instytut Fizyki Teoretycznej,UniwersytetWroclawski (University of Wroclaw) \
+- Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) \
 *Wroclaw, Poland (Jul 2024)*
 
 - University of Warsaw \
