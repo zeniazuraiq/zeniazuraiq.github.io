@@ -9,12 +9,16 @@ nav_order: 3
 horizontal: false
 ---
 
-### CONFERENCES, WORKSHOPS, MEETINGS
+### TALKS, POSTERS
 
-- **Poster**: Massive neutron stars as mass gap candidates \
+- **Talk**: Massive, magnetized neutron stars as mass gap objects \
+*[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1591/), Pescara, Italy (Jul 2024)*
+
+- **Talk**: Simulating magnetized whitedwarfs by time evolution: Chandrasekhar limit and beyond \
+*[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1579/), Pescara, Italy (Jul 2024)*
+
+- **Poster (invited)**: Massive neutron stars as mass gap candidates \
 *PMRF Annual Symposium, Indore, India (Mar 2024)*
-
-- Attended the meeting - *Pulsar Timing Array Experiments: Present and Future of Indian Collaboration (Feb 2024)*
 
 - **Poster**: Simulating super-Chandrasekhar white dwarf from
 main sequence star: Exploring stellar evolution codes STARS and MESA \
@@ -30,6 +34,9 @@ main sequence star: Exploring stellar evolution codes STARS and MESA \
 *In-House Symposium, Department of Physics, IISc, India (Nov 2023)* \
 Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
+- **Online Talk (invited)** : Massive neutron stars: effects of EOSs vs magnetic field \
+*[London-Oldenburg Relativity Series](https://www.ucl.ac.uk/~ucahbha/london_oldenburg_relativity.html#:~:text=The%20aim%20of%20the%20London,the%20University%20of%20Oldenburg%2C%20Germany.) (Oct 2023)*
+
 - **(Online) Talk** : Massive neutron stars: effects of EOSs and magnetic field \
 *[ECT* workshop: Strongly interacting matter in extreme magnetic fields](https://indico.ectstar.eu/event/180/contributions/4192/), Trento, Italy (Sep 2023)*
 
@@ -40,11 +47,20 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 *[Fifth Zeldovich Meeting](https://indico.icranet.org/event/6/contributions/1417/), Yerevan, Armenia (Jun 2023)*
 
 
+### RESEARCH VISITS
+
+- Instytut Fizyki Teoretycznej,UniwersytetWroclawski (University of Wroclaw) \
+*Wroclaw, Poland (Jul 2024)*
+- University of Warsaw \
+*Warsaw, Poland (Jul 2024)*
+- ICRANet-Ferrara, University of Ferrara \
+*Ferrara, Italy (Jun 2024)*
+- Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration \
+*The Institute ofMathematical Sciences, Chennai, India*
+
+
 
 ### MISC. TALKS
-
-- Massive neutron stars: effects of EOSs vs magnetic field \
-*Online Talk (invited), [London-Oldenburg Relativity Series](https://www.ucl.ac.uk/~ucahbha/london_oldenburg_relativity.html#:~:text=The%20aim%20of%20the%20London,the%20University%20of%20Oldenburg%2C%20Germany.) (Oct 2023)*
 
 - Overview of fermionic compact stars \
 Talk I : Non-interacting stars and white dwarfs\
@@ -67,7 +83,9 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- Teaching a value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Present) 
+- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jan 2024 - Present) 
+
+- Taught a value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Jun 2024) 
 
 - PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
