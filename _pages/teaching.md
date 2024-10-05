@@ -11,6 +11,9 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Talk (invited)**: A journey towards compact star physics... and beyond! \
+*[Stella Maris College Research Day talk](../assets/pdf/stella.pdf), Chennai India (Sep 2024)*
+
 - **Talk**: Massive, magnetized neutron stars as mass gap objects \
 *[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1591/), Pescara, Italy (Jul 2024)*
 
@@ -86,7 +89,7 @@ Talk II : Introducing interactions \
 
 ### TEACHING/OUTREACH ACTIVITIES
 
-- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jan 2024 - Present) 
+- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Present) 
 
 - Taught a value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Jun 2024) 
 
