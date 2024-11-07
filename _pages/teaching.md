@@ -12,7 +12,7 @@ horizontal: false
 ### TALKS, POSTERS
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
-*[Stella Maris College Research Day talk], CUSAT, Cochin ,India (Sep 2024)*
+*[Stella Maris College Research Day talk], CUSAT, Cochin, India (Sep 2024)*
 
 - **Talk (invited)**: A journey towards compact star physics... and beyond! \
 *[Stella Maris College Research Day talk](../assets/pdf/stella.pdf), Stella Maris College, Chennai India (Sep 2024)*
