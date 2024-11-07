@@ -12,7 +12,7 @@ horizontal: false
 ### TALKS, POSTERS
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
-*National conference on classical and quantum gravity, CUSAT, Cochin, India (Sep 2024)*
+*National conference on classical and quantum gravity, CUSAT, Cochin, India (Nov 2024)*
 
 - **Talk (invited)**: A journey towards compact star physics... and beyond! \
 *[Stella Maris College Research Day talk](../assets/pdf/stella.pdf), Stella Maris College, Chennai India (Sep 2024)*
