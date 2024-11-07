@@ -20,7 +20,7 @@ horizontal: false
 - **Talk**: Massive, magnetized neutron stars as mass gap objects \
 *[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1591/), Pescara, Italy (Jul 2024)*
 
-- **Talk**: Simulating magnetized whitedwarfs by time evolution: Chandrasekhar limit and beyond \
+- **Talk**: Simulating magnetized white dwarfs by time evolution: Chandrasekhar limit and beyond \
 *[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1579/), Pescara, Italy (Jul 2024)*
 
 - **Poster (invited)**: Massive neutron stars as mass gap candidates \
