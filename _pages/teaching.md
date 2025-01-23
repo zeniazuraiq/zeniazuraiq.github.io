@@ -11,6 +11,9 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Talk**: Simulating magnetized whtie dwarfs by time evolution: Chandrasekhar Limit and beyond \
+*4th Symposium of the BRICS Association on Gravity, Astrophysics and Cosmology, SGT University, Gurugram, India (Dec 2024)*
+
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *National conference on classical and quantum gravity, CUSAT, Cochin, India (Nov 2024)*
 
