@@ -8,7 +8,10 @@ children:
     - title: blog
       permalink: /blog/
     - title: divider
-    - title: python course (NPTEL)
+    - title: python course, jan 2025 (NPTEL)
+      permalink: /nptel/python_Jan25/
+    - title: divider
+    - title: python course, jul 2024 (NPTEL)
       permalink: /nptel/python/
     - title: divider
     - title: nuclear astrophysics (NPTEL)
