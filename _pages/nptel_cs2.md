@@ -1,8 +1,8 @@
 ---
 layout: page
-title: the joy of computing using python
+title: programming, data structures and algorithms using python
 permalink: /nptel/python_Jan25/
-description: NPTEL course [noc24_cs113]
+description: NPTEL course [noc25_cs59]
 nav: false
 nav_order: 3
 horizontal: false
