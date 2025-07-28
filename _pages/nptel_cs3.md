@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Joy of Computing using Python
+title: the joy of computing using python
 permalink: /nptel/python_Jul25/
 description: NPTEL course [noc25_cs103]
 nav: false
