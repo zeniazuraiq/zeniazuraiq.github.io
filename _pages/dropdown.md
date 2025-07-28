@@ -9,7 +9,7 @@ children:
       permalink: /blog/
     - title: divider
     - title: python course, jul 2025 (NPTEL)
-      permalink: /nptel/pytho_Jul25/
+      permalink: /nptel/python_Jul25/
     - title: divider
     - title: python course, jan 2025 (NPTEL)
       permalink: /nptel/python_Jan25/
