@@ -1,6 +1,6 @@
 ---
 layout: page
-title: programming, data structures and algorithms using python
+title: The Joy of Computing using Python
 permalink: /nptel/python_Jul25/
 description: NPTEL course [noc25_cs103]
 nav: false
@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-Welcome to the course page for the TA live sessions for the NPTEL course [noc25_cs59: The Joy of Computing using Python](https://onlinecourses.nptel.ac.in/noc25_cs103/course). You can find all relevant material relating to the weekly problem solving sessions as well as additional material here.
+Welcome to the course page for the TA live sessions for the NPTEL course [noc25_cs103: The Joy of Computing using Python](https://onlinecourses.nptel.ac.in/noc25_cs103/course). You can find all relevant material relating to the weekly problem solving sessions as well as additional material here.
 
 **Details of the problem solving sessions** 
 
