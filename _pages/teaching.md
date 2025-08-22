@@ -91,7 +91,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 - Looking out at the universe: multi-wavelength astronomy \
 *Talk at SERB outreach program for class X students, IISc (Oct 2024)*
 
-- Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, 
+- Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, IISc Bengaluru
 *(Feb 2024)*
 
 - Conducted Quiz at IISc Open Day 2024
@@ -132,7 +132,7 @@ Talk II : Introducing interactions \
 
 - PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
-- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) | *Best TA Award*
+- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) [*Best TA Award*]
 
 - Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
 
