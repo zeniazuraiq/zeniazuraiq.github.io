@@ -76,13 +76,13 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
-- University of California, Riverside | *Riverside, USA (Jun 2025)*
-- University of California, San Diego | *San Diego, USA, (Jun 2025)*
-- Department of Physics, San Diego State University | *San Diego, USA (Jun 2025)*
-- Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) | *Wroclaw, Poland (Jul 2024)*
-- University of Warsaw | *Warsaw, Poland (Jul 2024)*
-- ICRANet-Ferrara, University of Ferrara | *Ferrara, Italy (Jun 2024)*
-- Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration | *The Institute of Mathematical Sciences, Chennai, India (Feb 2024)*
+- University of California, Riverside *(Jun 2025)*
+- University of California, San Diego *(Jun 2025)*
+- Department of Physics, San Diego State University *(Jun 2025)*
+- Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) *(Jul 2024)*
+- University of Warsaw *(Jul 2024)*
+- ICRANet-Ferrara, University of Ferrara *(Jun 2024)*
+- Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration at IMSc *(Feb 2024)*
 
 
 
