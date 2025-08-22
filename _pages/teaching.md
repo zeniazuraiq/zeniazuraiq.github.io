@@ -76,33 +76,20 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
-- University of California, Riverside \
-*Riverside, USA (Jun 2025)*
-
-- University of California, San Diego \
-*San Diego, USA, (Jun 2025)*
-
-- Department of Physics, San Diego State University \
-*San Diego, USA (Jun 2025)*
-
-- Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) \
-*Wroclaw, Poland (Jul 2024)*
-
-- University of Warsaw \
-*Warsaw, Poland (Jul 2024)*
-
-- ICRANet-Ferrara, University of Ferrara \
-*Ferrara, Italy (Jun 2024)*
-
-- Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration \
-*The Institute of Mathematical Sciences, Chennai, India*
+- University of California, Riverside | *Riverside, USA (Jun 2025)*
+- University of California, San Diego | *San Diego, USA, (Jun 2025)*
+- Department of Physics, San Diego State University | *San Diego, USA (Jun 2025)*
+- Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) | *Wroclaw, Poland (Jul 2024)*
+- University of Warsaw | *Warsaw, Poland (Jul 2024)*
+- ICRANet-Ferrara, University of Ferrara | *Ferrara, Italy (Jun 2024)*
+- Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration | *The Institute of Mathematical Sciences, Chennai, India (Feb 2024)*
 
 
 
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
 - Looking out at the universe: multi-wavelength astronomy \
-*SERB outreach program for class X students, IISc (Oct 2024)*
+*Talk at SERB outreach program for class X students, IISc (Oct 2024)*
 
 - Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, 
 *(Feb 2024)*
