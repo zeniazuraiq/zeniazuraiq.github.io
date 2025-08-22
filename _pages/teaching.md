@@ -11,8 +11,26 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Talk**: Anisotropic neutron stars as mass gap candidates \
+*Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
+
+-  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
+*University of California, Riverside, USA (Jun 2025)*
+
+-  **Talk**:Explaining unusual observations using magnetized white dwarfs
+*IPTA Meeting 2025, California Institute of Technology, USA (Jun 2025)*
+
+-  **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond
+*GW Paleontology group meeting, University of California, San Diego (Jun 2025)*
+
+- **Talk**: Explaining unusual observations using magnetized white dwarfs
+*43rd Meeting of the Astronomical Society of India, NIT Rourkela, Odisha (Feb 2025)*
+
 - **Talk**: Simulating magnetized whtie dwarfs by time evolution: Chandrasekhar Limit and beyond \
 *4th Symposium of the BRICS Association on Gravity, Astrophysics and Cosmology, SGT University, Gurugram, India (Dec 2024)*
+
+- **Poster**: Explaining unusual observations using magnetized white dwarfs
+*In-House Symposium, Department of Physics, IISc (Nov 2024)*
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *National conference on classical and quantum gravity, CUSAT, Cochin, India (Nov 2024)*
@@ -58,6 +76,15 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
+- University of California, Riverside \
+*Riverside, USA (Jun 2025)*
+
+- University of California, San Diego \
+*San Diego, USA, (Jun 2025)*
+
+- Department of Physics, San Diego State University \
+*San Diego, USA (Jun 2025)*
+
 - Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) \
 *Wroclaw, Poland (Jul 2024)*
 
@@ -72,7 +99,18 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 
 
-### MISC. TALKS
+### MISC. TALKS AND OUTREACH ACTIVITIES
+
+- Looking out at the universe: multi-wavelength astronomy \
+*SERB outreach program for class X students, IISc (Oct 2024)*
+
+- Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, 
+*(Feb 2024)*
+
+- Conducted Quiz at IISc Open Day 2024
+
+- External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants" \
+*NIT Tiruchirappalli (May 2023)*
 
 - Overview of fermionic compact stars \
 Talk I : Non-interacting stars and white dwarfs\
@@ -93,7 +131,13 @@ Talk II : Introducing interactions \
 
 
 
-### TEACHING/OUTREACH ACTIVITIES
+### TEACHING
+
+- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2025 - Present)
+
+- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Present) 
+
+- PMRF Teaching Assistant for the NPTEL course: [Programming, Data Structures And Algorithms Using Python](https://zeniazuraiq.github.io/nptel/python_Jan25/) (Jan 2025 - Mar 2025) 
 
 - PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Oct 2024) 
 
@@ -101,10 +145,8 @@ Talk II : Introducing interactions \
 
 - PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
-- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023)
+- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) | *Best TA Award*
 
 - Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
 
 - Taught class XI NCERT Physics at Kendriya Vidyalaya, IISc Bengaluru (Jan 2023 - Jun 2023)
-
-- External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants", conducted by NIT-T (May 2023)
