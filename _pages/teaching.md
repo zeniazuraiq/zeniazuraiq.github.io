@@ -124,6 +124,8 @@ Talk II : Introducing interactions \
 
 - PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Present) 
 
+- Teaching assistant for the course UPH202L: Intermediate Mechanics (Lab) for second year undergraduates (B.Sc./B.Tech.) of IISc (Jan 2025 - Apr 2025) 
+
 - PMRF Teaching Assistant for the NPTEL course: [Programming, Data Structures And Algorithms Using Python](https://zeniazuraiq.github.io/nptel/python_Jan25/) (Jan 2025 - Mar 2025) 
 
 - PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Oct 2024) 
@@ -132,7 +134,7 @@ Talk II : Introducing interactions \
 
 - PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
-- Taught UPH101T: Introductory Mechanics to first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) [*Best TA Award*]
+- Teaching assistant for the course UPH101T: Introductory Mechanics for first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) [*Best TA Award*]
 
 - Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
 
