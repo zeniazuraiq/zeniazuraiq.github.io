@@ -17,13 +17,13 @@ horizontal: false
 -  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
 *University of California, Riverside, USA (Jun 2025)*
 
--  **Talk**:Explaining unusual observations using magnetized white dwarfs
+-  **Talk**: Explaining unusual observations using magnetized white dwarfs \
 *IPTA Meeting 2025, California Institute of Technology, USA (Jun 2025)*
 
--  **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond
+-  **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
 *GW Paleontology group meeting, University of California, San Diego (Jun 2025)*
 
-- **Talk**: Explaining unusual observations using magnetized white dwarfs
+- **Talk**: Explaining unusual observations using magnetized white dwarfs \
 *43rd Meeting of the Astronomical Society of India, NIT Rourkela, Odisha (Feb 2025)*
 
 - **Talk**: Simulating magnetized whtie dwarfs by time evolution: Chandrasekhar Limit and beyond \
