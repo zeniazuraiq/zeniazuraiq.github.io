@@ -14,8 +14,8 @@ horizontal: false
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
 
--  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
-*University of California, Riverside, USA (Jun 2025)*
+<!-- -  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
+*University of California, Riverside, USA (Jun 2025)* -->
 
 -  **Talk**: Explaining unusual observations using magnetized white dwarfs \
 *IPTA Meeting 2025, California Institute of Technology, USA (Jun 2025)*
