@@ -76,7 +76,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
-- University of California, Riverside *(Jun 2025)*
+<!--- University of California, Riverside *(Jun 2025)*-->
 - University of California, San Diego *(Jun 2025)*
 - Department of Physics, San Diego State University *(Jun 2025)*
 - Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) *(Jul 2024)*
