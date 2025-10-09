@@ -29,7 +29,7 @@ horizontal: false
 - **Talk**: Simulating magnetized whtie dwarfs by time evolution: Chandrasekhar Limit and beyond \
 *4th Symposium of the BRICS Association on Gravity, Astrophysics and Cosmology, SGT University, Gurugram, India (Dec 2024)*
 
-- **Poster**: Explaining unusual observations using magnetized white dwarfs
+- **Poster**: Explaining unusual observations using magnetized white dwarfs \
 *In-House Symposium, Department of Physics, IISc (Nov 2024)*
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
