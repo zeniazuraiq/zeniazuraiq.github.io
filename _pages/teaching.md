@@ -88,13 +88,16 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
+- Looking out at the Universe in Radio Waves: From Communication to Astronomy \
+*Invited talk at IEEE ComSoc SCT SBC: ComConnect 1.0, SCT College of Engineering, Thiruvanantapuram (Sep 2025)*
+
 - Looking out at the universe: multi-wavelength astronomy \
 *Talk at SERB outreach program for class X students, IISc (Oct 2024)*
 
 - Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, IISc Bengaluru
 *(Feb 2024)*
 
-- Conducted Quiz at IISc Open Day 2024
+- Conducted Quiz at IISc Open Day (2024)
 
 - External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants" \
 *NIT Tiruchirappalli (May 2023)*
@@ -120,9 +123,11 @@ Talk II : Introducing interactions \
 
 ### TEACHING
 
-- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2025 - Present)
+- Teaching assistant for the course UPH203: Quantum Mechanics I for undergraduates and Int. Ph.D. students of IISc (Aug 2025 - Dec 2025)
 
-- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Present) 
+- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2025 - Oct 2025)
+
+- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Oct 2025) 
 
 - Teaching assistant for the course UPH202L: Intermediate Mechanics (Lab) for second year undergraduates (B.Sc./B.Tech.) of IISc (Jan 2025 - Apr 2025) 
 
