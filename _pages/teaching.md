@@ -89,7 +89,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
 - Looking out at the Universe in Radio Waves: From Communication to Astronomy \
-*Invited talk at IEEE ComSoc SCT SBC: ComConnect 1.0, SCT College of Engineering, Thiruvanantapuram (Sep 2025)*
+*Invited talk at IEEE ComSoc SCT SBC: ComConnect 1.0, SCT College of Engineering, Thiruvananthapuram (Sep 2025)*
 
 - Looking out at the universe: multi-wavelength astronomy \
 *Talk at SERB outreach program for class X students, IISc (Oct 2024)*
