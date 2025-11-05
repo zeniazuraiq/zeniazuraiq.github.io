@@ -3,7 +3,7 @@ layout: page
 title: Fermionic compact stars
 description: M.Sc. Thesis
 img: assets/img/laneemden.png
-importance: 2
+importance: 1
 category: misc.
 ---
 

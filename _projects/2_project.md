@@ -3,7 +3,7 @@ layout: page
 title: cataclysmic variables
 description: an observational foray
 img: assets/img/cv.png
-importance: 3
+importance: 2
 category: misc.
 ---
 
