@@ -4,7 +4,7 @@ title: Fermionic compact stars
 description: M.Sc. Thesis
 img: assets/img/laneemden.png
 importance: 2
-category: projects
+category: misc.
 ---
 
 Compact stars achieve hydrostatic equilibirum very differently to main sequence stars. A white dwarf, for example, supports itself by the fermionic pressure exerted by electrons. White dwarfs are composed of degenerate electrons. And degenerate electrons obey the Pauli exclusion principle. To put it simply, fermions don't like to be pushed together. But that's exactly what gravity tries to do. And so, we have a balance - between the inward push of gravity and the outward push of the repulsive Fermi interaction.

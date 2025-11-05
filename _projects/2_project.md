@@ -4,7 +4,7 @@ title: cataclysmic variables
 description: an observational foray
 img: assets/img/cv.png
 importance: 3
-category: projects
+category: misc.
 ---
 
 Cataclysmic variables (CVs) are binary systems consisting of an accreting white dwarf (AWD) along with a mass-transferring, Roche-lobe filling secondary star. CVs can be both magnetic and non-magnetic, with the classification depending on whether or not the magnetic field of the white dwarf is enough to control the accretion flow. If the accretion process continues till the white dwarf reaches close to the Chandrasekhar limit, the process may lead to a runaway carbon fusion and trigger a Type Ia supernova explosion which destroys the white dwarf.
