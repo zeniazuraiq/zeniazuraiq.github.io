@@ -17,5 +17,5 @@ I am also interested in the history of science and the lives of scientists - par
 
 I enjoy writing. Some (older) samples of my writing can be found [here](https://stellaeidoscope.wordpress.com/?s=zenia+zuraiq) and [here](https://stellaeidoscope.blogspot.com/search?q=zenia+zuraiq). 
 
-<!--If you like/can tolerate teenage angst, you can find my highschool blog [here](https://zxnia.wordpress.com/).--!>
+If you like/can tolerate teenage angst, you can find my highschool blog [here](https://zxnia.wordpress.com/).
 
