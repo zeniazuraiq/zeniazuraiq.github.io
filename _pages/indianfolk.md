@@ -13,7 +13,7 @@ Between September-December 2018, I was an opinion writer and panelist at Indianf
 The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
 
 1. [The "Virtual" Race to Success](../assets/indianfolk/Race2Success.pdf) (originally written: 13/Sep/2018)
-2. ["Women in Refrigerators": Depictions of Abuse in Media](../assets/indianfolk/Race2Success.pdf) (originally written: 22/Sep/2018)
+2. ["Women in Refrigerators": Depictions of Abuse in Media](../assets/indianfolk/WomeninRefrigerators.pdf) (originally written: 22/Sep/2018)
 3. ["Sweet Dreams are Made of These.."](../assets/indianfolk/SweetDreamsareMadeofThese.pdf) (originally written: 30/Sep/2018)
 4. [Women in Science : The Indian Scenario](../assets/indianfolk/WomeninScience.pdf) (originally written: 01/Oct/2018)
 5. [ISRO Spy Case : A History](../assets/indianfolk/ISROSpyCase.pdf) (originally written: 01/Oct/2018)
