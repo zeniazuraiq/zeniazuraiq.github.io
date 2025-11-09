@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-Between September-December 2018, I was an opinion writer and panelist at Indianfolk.com. As a part of my duries, I wrote roughly 2 articles a week on a variety of general topics relating to science, society and culture. 
+Between September-December 2018, I was an opinion writer and panelist at Indianfolk.com. As a part of my duties, I wrote roughly 2 articles a week on a variety of general topics relating to science, society and culture. 
 
 The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
 
