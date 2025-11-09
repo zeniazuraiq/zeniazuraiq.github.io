@@ -10,7 +10,7 @@ horizontal: false
 
 Between September-December 2018, I was an opinion writer and panelist at Indianfolk.com. As a part of my duries, I wrote articles a week on a variety of general topics relating to science, society and culture. 
 
-The website has since been remodelled and the article archives seem to unfortunately not be preserved. You can find an archive of the (unedited) articles here.
+The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
 
 1. [The "Virtual" Race to Success](../assets/indianfolk/Race2Success.pdf) (originally written: 13/Sep/2018)
 2. ["Women in Refrigerators": Depictions of Abuse in Media](../assets/indianfolk/Race2Success.pdf) (originally written: 22/Sep/2018)
