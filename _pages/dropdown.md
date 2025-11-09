@@ -8,6 +8,9 @@ children:
     - title: blog
       permalink: /blog/
     - title: divider
+    - title: indianfolk
+      permalink: /indianfolk/
+    - title: divider
     - title: python course, jul 2025 (NPTEL)
       permalink: /nptel/python_Jul25/
     - title: divider
