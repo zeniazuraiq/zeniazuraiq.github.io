@@ -11,6 +11,9 @@ children:
     - title: indianfolk
       permalink: /indianfolk/
     - title: divider
+    - title: particle physics and the standard model (NPTEL)
+      permalink: /nptel/ppsm/
+    - title: divider
     - title: python course, jul 2025 (NPTEL)
       permalink: /nptel/python_Jul25/
     - title: divider

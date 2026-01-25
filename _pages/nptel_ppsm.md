@@ -1,6 +1,6 @@
 ---
 layout: page
-title: particle physics and the standard model
+title: particle physics and the standard model (NPTEL)
 permalink: /nptel/ppsm/
 description: NPTEL course [noc26_ph05]
 nav: false
