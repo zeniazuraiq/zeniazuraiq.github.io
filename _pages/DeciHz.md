@@ -5,24 +5,11 @@ nav: false
 nav_order: 5
 ---
 
-<style>
-  /* This ensures the iframe doesn't get restricted by the theme's layout */
-  .fixed-plot-wrapper {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    overflow-x: auto; /* Adds a scrollbar if the screen is narrower than 1000px */
-  }
-</style>
-
 <div class="l-page">
-  <div class="fixed-plot-wrapper">
-    <iframe 
-      src="{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}" 
-      width="1000" 
-      height="1000" 
-      frameborder="0" 
-      scrolling="no">
-    </iframe>
-  </div>
+  <iframe 
+    srcdoc="<style>body, html { margin: 0; padding: 0; overflow: hidden; }</style>
+            <iframe src='{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}' 
+                    style='width:1000px; height:1000px; border:none;'></iframe>"
+    style="width: 100%; height: 1050px; border: none;">
+  </iframe>
 </div>
