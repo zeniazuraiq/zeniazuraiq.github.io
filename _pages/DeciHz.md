@@ -5,11 +5,6 @@ nav: false
 nav_order: 5
 ---
 
-<div class="l-page" style="width: 100%; overflow: hidden;">
-  <iframe 
-    src="{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}" 
-    frameborder='0' 
-    scrolling='no' 
-    style="height: 80vh; width: 100%; border: 1px dashed grey;">
-  </iframe>
+<div class="l-page">
+  <iframe src="{{ '/assets/plotly/demo.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
