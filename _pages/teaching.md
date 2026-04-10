@@ -11,6 +11,12 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
+*Workshop: Magnetism in low-mass stars and their compact remnants, IIT Bombay (Dec 2025)*
+
+- **Talk**: Anisotropic neutron stars as mass gap candidates \
+*Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
+
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
 
@@ -88,6 +94,9 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
+- The Life and Death of Stars: Stellar Physics and Evolution
+*IISc PRAVEGA Astrophysics Workshop (Jan 2026)*
+
 - Looking out at the Universe in Radio Waves: From Communication to Astronomy \
 *Invited talk at IEEE ComSoc SCT SBC: ComConnect 1.0, SCT College of Engineering, Thiruvananthapuram (Sep 2025)*
 
@@ -97,7 +106,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 - Volunteer at 42nd annual meeting of the Astronomical Society of India, Bengaluru, India, IISc Bengaluru
 *(Feb 2024)*
 
-- Conducted Quiz at IISc Open Day (2024)
+- Conducted Quizzes at IISc Open Day (2024, 2026)
 
 - External expert for Q/A session at "National Workshop on physical sciences for CSIR-UGC NET and GATE aspirants" \
 *NIT Tiruchirappalli (May 2023)*
@@ -122,6 +131,8 @@ Talk II : Introducing interactions \
 
 
 ### TEACHING
+
+- PMRF Teaching Assistant for the NPTEL course: [Particle Physics and the Standard Model](https://zeniazuraiq.github.io/nptel/ppsm/) (Jan 2026 - Apr 2026) 
 
 - Teaching assistant for the course UPH203: Quantum Mechanics I for undergraduates and Int. Ph.D. students of IISc (Aug 2025 - Dec 2025)
 
