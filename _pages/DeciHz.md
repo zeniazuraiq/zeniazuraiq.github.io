@@ -5,10 +5,10 @@ nav: false
 nav_order: 5
 ---
 
-<div class="l-page" style="width: 100%; overflow: visible;">
-  <iframe
-    src="{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}"
-    style="width: 100%; height: 850px; border: none; overflow: visible;"
-    frameborder="0">
+<div class="l-screen"> <iframe 
+    src="{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}" 
+    frameborder='0' 
+    scrolling='no' 
+    style="width: 1200px; height: 1050px; border: none; display: block; margin: 0 auto;">
   </iframe>
 </div>
