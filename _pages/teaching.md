@@ -17,9 +17,6 @@ horizontal: false
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
 
-- **Talk**: Anisotropic neutron stars as mass gap candidates \
-*Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
-
 <!-- -  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
 *University of California, Riverside, USA (Jun 2025)* -->
 
