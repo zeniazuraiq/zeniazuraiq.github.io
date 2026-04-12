@@ -91,7 +91,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
-- The Life and Death of Stars: Stellar Physics and Evolution
+- The Life and Death of Stars: Stellar Physics and Evolution \
 *IISc PRAVEGA Astrophysics Workshop (Jan 2026)*
 
 - Looking out at the Universe in Radio Waves: From Communication to Astronomy \
