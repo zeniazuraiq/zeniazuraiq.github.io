@@ -17,8 +17,8 @@ horizontal: false
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
 
-<!-- -  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
-*University of California, Riverside, USA (Jun 2025)* -->
+-  **Talk**: Addressing fundamental puzzles with the neutron star EOS \
+*University of California, Riverside, USA (Jun 2025)* 
 
 -  **Talk**: Explaining unusual observations using magnetized white dwarfs \
 *IPTA Meeting 2025, California Institute of Technology, USA (Jun 2025)*
@@ -79,7 +79,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
-<!--- University of California, Riverside *(Jun 2025)*-->
+- University of California, Riverside *(Jun 2025)*
 - University of California, San Diego *(Jun 2025)*
 - Department of Physics, San Diego State University *(Jun 2025)*
 - Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) *(Jul 2024)*
@@ -95,7 +95,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 *IISc PRAVEGA Astrophysics Workshop (Jan 2026)*
 
 - Looking out at the Universe in Radio Waves: From Communication to Astronomy \
-*Invited talk at IEEE ComSoc SCT SBC: ComConnect 1.0, SCT College of Engineering, Thiruvananthapuram (Sep 2025)*
+*Invited talk at [IEEE ComSoc SCT SBC: ComConnect 1.0](https://events.vtools.ieee.org/m/506521), SCT College of Engineering, Thiruvananthapuram (Sep 2025)*
 
 - Looking out at the universe: multi-wavelength astronomy \
 *Talk at SERB outreach program for class X students, IISc (Oct 2024)*
