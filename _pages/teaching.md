@@ -88,11 +88,10 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 - Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration at IMSc *(Feb 2024)*
 
 
-
 ### MISC. TALKS AND OUTREACH ACTIVITIES
 
 - The Life and Death of Stars: Stellar Physics and Evolution \
-*IISc PRAVEGA Astrophysics Workshop (Jan 2026)*
+*IISc PRAVEGA Astrophysics Workshop (Jan 2026, May 2026)*
 
 - Looking out at the Universe in Radio Waves: From Communication to Astronomy \
 *Invited talk at [IEEE ComSoc SCT SBC: ComConnect 1.0](https://events.vtools.ieee.org/m/506521), SCT College of Engineering, Thiruvananthapuram (Sep 2025)*
