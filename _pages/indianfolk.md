@@ -15,7 +15,7 @@ Between September-December 2018, I was an opinion writer and panelist at Indianf
         {% include figure.html path="assets/img/indianfolk.png" title="indianfolk" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    Indianfolk folks @ Stella Maris College, 2018 (Photo taken from Indianfolk.com, Jun 2026)
+    Indianfolk(s) @ Stella Maris College, 2018 (Photo taken from Indianfolk.com, Jun 2026)
 </div>
 
 The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
