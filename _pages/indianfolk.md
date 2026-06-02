@@ -8,15 +8,9 @@ nav_order: 2
 horizontal: false
 ---
 
-Between September-December 2018, I was an opinion writer and panelist at Indianfolk.com. As a part of my duties, I wrote roughly 2 articles a week on a variety of general topics relating to science, society and culture. 
+Between September-December 2018, I was an opinion writer and panelist at IndianFolk.com. As a part of my duties, I wrote roughly 2 articles a week on a variety of general topics relating to science, society and culture. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/indianfolk.png" title="indianfolk" class="img-fluid rounded z-depth-1" %}
-    </div>
-<div class="caption">
-    Indianfolk(s) @ Stella Maris College, 2018 (Photo taken from Indianfolk.com, Jun 2026)
-</div>
+![IndianFolk(s) @ Stella Maris, 2018 (Photo taken from IndianFolk.com, June 2026)](../assets/img/indianfolk.png)
 
 The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
 
