@@ -10,9 +10,17 @@ horizontal: false
 
 Between September-December 2018, I was an opinion writer and panelist at IndianFolk.com. As a part of my duties, I wrote roughly 2 articles a week on a variety of general topics relating to science, society and culture. 
 
-![IndianFolk(s) @ Stella Maris, 2018 (Photo taken from IndianFolk.com, June 2026)](../assets/img/indianfolk.png)
 
-The website has since been remodelled and the older articles seem to unfortunately not be preserved. You can find my personal archive of the (unedited) articles here.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/indianfolk.png" title="spectral" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    IndianFolk(s) @ Stella Maris, 2018 (Photo taken from IndianFolk.com, June 2026)
+</div>
+
+The website has since been remodelled and the older articles seem to unfortunately not have been preserved. You can find my personal archive of the (unedited) articles here.
 
 1. [The "Virtual" Race to Success](../assets/indianfolk/Race2Success.pdf) (originally written: 13/Sep/2018)
 2. ["Women in Refrigerators": Depictions of Abuse in Media](../assets/indianfolk/WomeninRefrigerators.pdf) (originally written: 22/Sep/2018)
