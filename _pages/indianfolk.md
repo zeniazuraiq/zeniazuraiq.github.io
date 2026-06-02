@@ -13,7 +13,7 @@ Between September-December 2018, I was an opinion writer and panelist at IndianF
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/indianfolk.png" title="spectral" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/indianfolk.png" title="indianfolx" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
