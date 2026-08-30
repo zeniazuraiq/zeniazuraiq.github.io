@@ -1,6 +1,6 @@
 ---
 layout: page
-title: phase transitions in NSs as a probe of hidden sectors
+title: probing hidden sectors using neutron star phase transitions
 description: limits on particle dark matter cross sections and more
 img: assets/img/publication_preview/dmns.png
 importance: 4
