@@ -28,4 +28,4 @@ We explore further the properties of the formed WDs. An important source of devi
 </div>
 
 
-<i> You can find further details of this work here: [Zuraiq et al.](https://doi.org/10.1007/978-3-031-90186-7_32)</i>
+<i> You can find further details of this work here: [Zuraiq et al., Astrophys. Space Sci. Proc. 61 397-407 (2025).](https://doi.org/10.1007/978-3-031-90186-7_32)</i>
