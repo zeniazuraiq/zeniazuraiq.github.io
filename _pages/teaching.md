@@ -11,8 +11,17 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Poster**: Simulating magnetized white dwarfs by time evolution: Chandrasekhar limit and beyond \
+*24th European Workshop on White Dwarfs, ISTA Klosterneuburg, Austria (Aug 2026)*
+
+- **Talk**: Anisotropic hybrid stars: Interplay of superconductivity and magnetic field leading to gravitational waves \
+*6th Zeldovich Meeting, Pescara, Italy (Jul 2026)*
+
 - **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
 *Workshop: Magnetism in low-mass stars and their compact remnants, IIT Bombay (Dec 2025)*
+
+- **Poster**: Simulating magnetized white dwarfs by time evolution: Chandrasekhar limit and beyond \
+*In-House Symposium 2025, Department of Physics, Indian Institute of Science, Bengaluru, India (Nov 2025)*
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *Brainstorming workshop on neutron stars, IMSc, Chennai, India (Aug 2025)*
@@ -79,16 +88,18 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 
 ### RESEARCH VISITS
 
+- University of Warsaw *(Jul 2026, Jul 2024)*
+- ICRANet-Ferrara, University of Ferrara *(Jul 2026, Jun 2024)*
 - University of California, Riverside *(Jun 2025)*
 - University of California, San Diego *(Jun 2025)*
 - Department of Physics, San Diego State University *(Jun 2025)*
 - Instytut Fizyki Teoretycznej, Uniwersytet Wroclawski (University of Wroclaw) *(Jul 2024)*
-- University of Warsaw *(Jul 2024)*
-- ICRANet-Ferrara, University of Ferrara *(Jun 2024)*
 - Meeting on Pulsar Timing Array Experiments: Present and Future of Indian Collaboration at IMSc *(Feb 2024)*
 
 
 ### MISC. TALKS AND OUTREACH ACTIVITIES
+
+- *Peer Review*: Reviewer for European Physical Journal C, Astrophysics and Space Science Proceedings
 
 - The Life and Death of Stars: Stellar Physics and Evolution \
 *IISc PRAVEGA Astrophysics Workshop (Jan 2026, May 2026)*
@@ -127,6 +138,8 @@ Talk II : Introducing interactions \
 
 
 ### TEACHING
+
+- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2026 - Present)
 
 - PMRF Teaching Assistant for the NPTEL course: [Particle Physics and the Standard Model](https://zeniazuraiq.github.io/nptel/ppsm/) (Jan 2026 - Apr 2026) 
 

@@ -17,5 +17,3 @@ I enjoy writing. You can find my most current writing on my [substack](https://z
 
 I am also interested in the history of science and the lives of scientists - particularly, the stories that are often left untold in the mainstream space. To this end, I ran a (short-lived) instagram account that chronicled the lives and work of women involved in various fields of science across history. This was an effort that came out during the early pandemic, and my small way to show that women have always been and continue to be vital parts of science. You can find the account (*@women.in.labcoats*) [here](https://www.instagram.com/women.in.labcoats/). 
 
-If you like/can tolerate teenage angst, you can find my highschool blog [here](https://zxnia.wordpress.com/).
-

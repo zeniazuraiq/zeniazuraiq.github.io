@@ -1,80 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: slow pulsars and long period transients
+description: beyond conventional pulsar emission?
+img: assets/img/deathline.png
 importance: 3
-category: fun
+category: projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Long period transients (LPTs) are an intriguing and exciting class of objects that are being increasingly observed currently. These are a new class of radio sources which have rotational periods from minutes to hours and, hence, are much longer than conventional pulsar sources. There are at least 12 LPT sources that have been detected till today. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In general, pulsar radio emissions are mostly understood to be due to the conversion of rotational energy into dipolar emission from a rotating, magnetized neutron star. However, the high periods of LPTs are not easily explained based on conventional pulsar emission ideas. In fact, they often violate the conventional death valley idea of pulsar emission. It is apparent that such sources are then a way to probe the pulsar emission mechanism and our pre-conceptions of the same in more detail.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+We find that magentized WDs, with fields within the ranges of conventional observations, are adequate enough to explain the observations of some shorter LPTs and slow pulsars (periods ~ 100-1000 s), viz., PSR J0901-4046, GLEAM-X~J162759.5-523504.3, and GPM J1839-10. It is clear that realistic WDs arising from stellar evolution simulations are able to support pulsar emission and lie above the death line under certain hypotheses. We have also explored the possibility of extending the conventional pulsar emission picture to include multipolar magnetic fields. More rigorous study of possible emission mechanism and associated observational signatures could further constrain the model, as well as future multi-wavelength observations.

@@ -11,13 +11,13 @@ horizontal: false
 
 <b>What are compact stars?</b>
 
-Stars have a life cycle, living and dying based on how long they can push back against gravity. Gravity always acts inwards - wanting to collapse the star. This inward force of gravity has to be balanced by some sort of outward push. This is hydrostatic equilibrium.
+Stars have a life cycle, living and dying based on how long they can push back against gravity. Gravity always acts inwards - wanting to collapse the star. This inward force of gravity has to be balanced by some sort of outward push. This is hydrostatic equilibrium, where pressure balances gravity.
 
 "Main sequence" stars like the Sun achieve this through nuclear fusion. But fusion can only get us so far. Beyond iron, fusion is endothermic and the star can no longer stabilise itself against gravity. 
 
-What happens next to the star is determined by its mass. A massive enough star is collapsed completely by gravity - this is when we get a <i>black hole</i>. Less massive stars can still achieve hydrostatic equilibrium - these end up as <i>white dwarfs</i> and <i>neutron stars</i>. 
+What happens next to the star is determined by its mass. A massive enough star is collapsed completely by gravity - this is when we get a <i>black hole</i>. Less massive stars can still achieve hydrostatic equilibrium through other means - these end up as <i>white dwarfs</i> and <i>neutron stars</i>. 
 
-These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - and this page collects (semi-regularly) updated summaries of said work.
+These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - and this page collects (semi-regularly) updated summaries of said work. You can find an accessible primer on stellar physics and evolution [here](../assets/pdf/StellarEvolution_PravegaWS_May2026.pdf), adopted from a public talk I gave at IISc.
 
 <!-- pages/projects.md -->
 <div class="projects">

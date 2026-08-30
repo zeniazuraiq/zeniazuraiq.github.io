@@ -1,80 +1,17 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: phase transitions in NSs as a probe of hidden sectors
+description: limits on particle dark matter cross sections and more
+img: assets/img/publication_preview/dmns.png
 importance: 4
-category: fun
+category: projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<i> You can find further details of this work here: [Bhutani, Raj \& Zuraiq, Phys.Rev.D 113 10, 103046, 2026](https://doi.org/10.1103/yblk-411t) </i>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The interiors of neutron stars (NSs) are extremely dense. In fact, they are dense enough that they are ideal sites for a deconfinement phase transition, leading to the conversion of hadronic matter to quarks. Due to the highly uncertain nature of high density matter and the exact dense matter equation of state (EoS), it is unclear what mechanism triggers these phase transitions. In fact, in certain models, the potential barrier for the nucleation of quark matter droplets may be high enough that astrophysical mechanisms won't do. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+An energy injection from hidden sector states could trigger a phase transition within NSs, leading to catastrophic rearrangement of its structure, and the production of energetic gamma rays or the collapse of the NS to a black hole. The observed rates of such events allow us to set limits on particle dark matter properties based on the exact energy deposition mechanism, i.e., scattering, decay, or annihilation; the decay of the neutron into exotic channels; and the decay of the proton. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Using the observed existence of ancient neutron stars and estimates of the GRB rate, we then set some of the strictest (albeit conditional) limits on dark matter scatters, annihilations, and decays that are tens of orders stronger than those from terrestrial searches. For smaller energy barriers, lower limits on nucleon decay lifetimes of the order of 10^64 yr may be obtained.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
