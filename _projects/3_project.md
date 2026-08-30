@@ -4,7 +4,7 @@ title: anisotropic neutron and hybrid stars
 description: investigating EoS, magnetic field, superconductivity
 img: assets/img/eos.png
 importance: 1
-category: projects
+category: selected projects
 ---
 
 <i> You can find further details of this work in the following papers: [Zuraiq, Mukhopadhyay & Weber, Phys. Rev. D. (2024)](https://doi.org/10.1103/PhysRevD.109.023027), [Zuraiq et al., Universe 12 5, 130 (2026)](https://doi.org/10.3390/universe12050130) and [Zuraiq & Mukhopadhyay (submitted, 2026), arXiv: 2604.06308](https://arxiv.org/abs/2604.06308)</i>

@@ -4,7 +4,7 @@ title: slow pulsars and long period transients
 description: beyond conventional pulsar emission?
 img: assets/img/deathline.png
 importance: 3
-category: projects
+category: selected projects
 ---
 
 Long period transients (LPTs) are an intriguing and exciting class of objects that are being increasingly observed currently. These are a new class of radio sources which have rotational periods from minutes to hours and, hence, are much longer than conventional pulsar sources. There are at least 12 LPT sources that have been detected till today. 

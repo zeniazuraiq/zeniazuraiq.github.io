@@ -4,7 +4,7 @@ title: probing hidden sectors using neutron star phase transitions
 description: limits on particle dark matter cross sections and more
 img: assets/img/publication_preview/dmns.png
 importance: 4
-category: projects
+category: selected projects
 ---
 
 <i> You can find further details of this work here: [Bhutani, Raj & Zuraiq, Phys.Rev.D 113 10, 103046, 2026](https://doi.org/10.1103/yblk-411t) </i>

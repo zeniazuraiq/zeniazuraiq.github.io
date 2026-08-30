@@ -4,7 +4,7 @@ title: improving pulsar timing array sensitivity using vlbi astrometry
 description:  pta + gravitational waves + vlbi
 img: assets/img/publication_preview/inpta.jpeg
 importance: 5
-category: projects
+category: selected projects
 ---
 
 Pulsars are neutron stars that spin very quickly, with the fastest of them spinning 100s of times in a second. They are very stable, cosmic clocks. Pulsar Timing Arrays continuously monitor a population of galactic pulsars using radio telescopes. Energetic events (like the mergers of 2 supermassive black holes) happening in the Universe result in
