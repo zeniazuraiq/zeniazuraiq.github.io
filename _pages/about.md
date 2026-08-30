@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am Zenia Zuraiq, a Ph.D. student and [Prime Minister's Research Fellow](https://www.pmrf.in/) at the [Department of Physics](http://www.physics.iisc.ernet.in/), IISc Bangalore. I am also an associate member of the Indian Pulsar Timing Array ([InPTA](https://inpta.iitr.ac.in/)) collaboration.
 
-I work in high energy astrophysics. More specifically, I study the [compact objects](https://zeniazuraiq.github.io/projects/) formed at the end stages of a star's life, focussing on neutron stars and white dwarfs. You can find a list of my publications [here](https://inspirehep.net/authors/2846978?ui-citation-summary=true). You can find my cv [here](../assets/pdf/ZeniaCV_Aug2026.pdf).
+I work in high energy astrophysics. More specifically, I study the [compact objects](https://zeniazuraiq.github.io/projects/) formed at the end stages of a star's life, focussing on neutron stars and white dwarfs. You can find a list of my publications [here](https://inspirehep.net/authors/2846978?ui-citation-summary=true). You can find my CV [here](../assets/pdf/ZeniaCV_Aug2026.pdf).
  
 
 
