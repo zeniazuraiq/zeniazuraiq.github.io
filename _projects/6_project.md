@@ -7,7 +7,7 @@ importance: 4
 category: projects
 ---
 
-<i> You can find further details of this work here: [Bhutani, Raj \& Zuraiq, Phys.Rev.D 113 10, 103046, 2026](https://doi.org/10.1103/yblk-411t) </i>
+<i> You can find further details of this work here: [Bhutani, Raj & Zuraiq, Phys.Rev.D 113 10, 103046, 2026](https://doi.org/10.1103/yblk-411t) </i>
 
 The interiors of neutron stars (NSs) are extremely dense. In fact, they are dense enough that they are ideal sites for a deconfinement phase transition, leading to the conversion of hadronic matter to quarks. Due to the highly uncertain nature of high density matter and the exact dense matter equation of state (EoS), it is unclear what mechanism triggers these phase transitions. In fact, in certain models, the potential barrier for the nucleation of quark matter droplets may be high enough that astrophysical mechanisms won't do. 
 
