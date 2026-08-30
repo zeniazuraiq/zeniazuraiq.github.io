@@ -15,7 +15,7 @@ horizontal: false
 *24th European Workshop on White Dwarfs, ISTA Klosterneuburg, Austria (Aug 2026)*
 
 - **Talk**: Anisotropic hybrid stars: Interplay of superconductivity and magnetic field leading to gravitational waves \
-*6th Zeldovich Meeting, Pescara, Italy (Jul 2026)*
+*[Sixth Zeldovich Meeting](https://indico.icranet.org/event/11/contributions/2180/), Pescara, Italy (Jul 2026)*
 
 - **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
 *Workshop: Magnetism in low-mass stars and their compact remnants, IIT Bombay (Dec 2025)*
