@@ -7,7 +7,9 @@ importance: 2
 category: selected projects
 ---
 
-The famous Chandrasekhar limit was derived back in the 1930s, with Subrahmanyan Chandrasekhar receiving the Nobel Prize for this work in 1983. However, this limit was derived under the assumption of ideal Fermi gases at zero temperatures. Further, effects like rotation and magnetic fields are not considered during the derivation. In fact, there are observations that indicate the violation of this mass limit. Several over-luminous peculiar type Ia supernovae, e.g. SNLS-03D3bb, argue their respective progenitor to be a significantly super-Chandrasekhar WD with a mass-limit higher than the Chandrasekhar limit. 
+<i> You can find further details of this work here: [Zuraiq et al., Astrophys. J. Lett. (accepted, 2026)](https://arxiv.org/abs/2609.22437)</i>
+
+The famous Chandrasekhar limit was derived back in the 1930s, with Subrahmanyan Chandrasekhar receiving the Nobel Prize for it in 1983. However, this limit was derived under the assumption of ideal Fermi gases at zero temperatures. Further, effects like rotation and magnetic fields are not considered during the derivation. In fact, there are observations that indicate the violation of this mass limit. Several over-luminous peculiar type Ia supernovae, e.g. SN2003fg, argue their respective progenitor to be a significantly super-Chandrasekhar WD with a mass-limit higher than the Chandrasekhar limit. 
 
 It has been shown in previous work that the magnetic fields of WDs can lead to higher masses being supported by the star. The magnetic field can lead to both classical and quantum effects on the eventual mass of the star. In fact, previous work showed that in the presence of a magnetic field, there can be a series of mass limits, depending on the type of field geometry and profile present within the WD considered. 
 
@@ -26,6 +28,3 @@ We explore further the properties of the formed WDs. An important source of devi
 <div class="caption">
     Evolution of MSs of various masses to WDs in H--R diagrams, where $L$ is the luminosity and $T_{\rm e}$ the effective temperature of the star. The solid, dashed and long-dashed lines show the evolution from MS to WD without accretion, from bottom to top: for $3,~5$ and $8M_\odot$ MSs. Accretion at $\dot{M} = 10^{-9}\,M_\odot\,{\rm yr}^{-1}$ on to the $1.02M_\odot$ WD with an initially dormant magnetic field leads to a $2.4\,M_\odot$ B-WD (dotted line), whereas without magnetic field forms a $M_{\rm Ch}=1.4M_\odot$ WD (dash-dotted line). 
 </div>
-
-
-<i> You can find further details of this work here: [Zuraiq et al., Astrophys. Space Sci. Proc. 61 397-407 (2025).](https://doi.org/10.1007/978-3-031-90186-7_32)</i>
