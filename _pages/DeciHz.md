@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 <div class="l-screen"> <iframe 
-    src="{{ '/assets/DeciHz_3d_SNR_truncated.html' | relative_url }}" 
+    src="{{ '/assets/DeciHz_3d_SNR_truncated_updated.html' | relative_url }}" 
     frameborder='0' 
     scrolling='no' 
     style="width: 1200px; height: 1050px; border: none; display: block; margin: 0 auto;">
