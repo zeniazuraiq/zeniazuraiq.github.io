@@ -15,6 +15,7 @@ Some examples of the news coverage of <i>[Zuraiq et al., Astrophys. J. Lett. (20
 - [The Hindu](https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece)
 - [The Times of India]((../assets/pdf/toi_coverage.pdf))
 - [Phys.org](https://phys.org/news/2026-10-strong-magnetic-fields-white-dwarfs.html)
+- [EurekAlert! (AAAS)](https://www.eurekalert.org/news-releases/1147119)
 - [EducationPost](https://educationpost.in/news/technology/iisc-white-dwarf-study-chandrasekhar-limit)
 
 
