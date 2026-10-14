@@ -22,5 +22,5 @@ Hi! I am Zenia Zuraiq, a Ph.D. student and [Prime Minister's Research Fellow](ht
 
 I work in high energy astrophysics. More specifically, I study the [compact objects](https://zeniazuraiq.github.io/projects/) formed at the end stages of a star's life, focussing on neutron stars and white dwarfs. You can find a list of my publications [here](https://inspirehep.net/authors/2846978?ui-citation-summary=true). You can find my CV [here](../assets/pdf/ZeniaCV_Aug2026.pdf).
  
-
+ You can read more about my research [here](https://zeniazuraiq.github.io/projects/). My work on the stellar evolution and formation of magnetized, super-Chandrasekhar white dwarfs was covered extensively in the press - see [here](https://zeniazuraiq.github.io/news/) for details.
 

@@ -19,6 +19,8 @@ What happens next to the star is determined by its mass. A massive enough star i
 
 These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - and this page collects (semi-regularly) updated summaries of said work. You can find an accessible primer on stellar physics and evolution [here](../assets/pdf/StellarEvolution_PravegaWS_May2026.pdf), from a public talk I gave at IISc.
 
+[Here](https://zeniazuraiq.github.io/news/) is a list of popular-level news articles covering my work.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
