@@ -139,6 +139,8 @@ Talk II : Introducing interactions \
 
 ### TEACHING
 
+- Teaching tutorials for the course “Electomagnetism”, Azim Premji University, Bengaluru (Sep 2026 - Present)
+
 - Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2026 - Present)
 
 - PMRF Teaching Assistant for the NPTEL course: [Particle Physics and the Standard Model](https://zeniazuraiq.github.io/nptel/ppsm/) (Jan 2026 - Apr 2026) 
