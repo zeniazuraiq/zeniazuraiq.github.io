@@ -7,6 +7,8 @@ importance: 3
 category: selected projects
 ---
 
+<i> You can find further details of this work in the following papers: [Zuraiq & Mukhopadhyay, accepted in Astrophys. J. (2026), arXiv: 2610.28728](https://arxiv.org/abs/2610.28728) and [Mukhopadhyay, Roy, Zuraiq et al., accepted in Astrophys. J. (2026), arXiv: 2610.2610.28741](https://arxiv.org/abs/2610.28741).
+
 Long period transients (LPTs) are an intriguing and exciting class of objects that are being increasingly observed currently. These are a new class of radio sources which have rotational periods from minutes to hours and, hence, are much longer than conventional pulsar sources. There are at least 12 LPT sources that have been detected till today. 
 
 In general, pulsar radio emissions are mostly understood to be due to the conversion of rotational energy into dipolar emission from a rotating, magnetized neutron star. However, the high periods of LPTs are not easily explained based on conventional pulsar emission ideas. In fact, they often violate the conventional death valley idea of pulsar emission. It is apparent that such sources are then a way to probe the pulsar emission mechanism and our pre-conceptions of the same in more detail.
