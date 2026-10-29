@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /news/
-title: in the press
+title: in the news
 description: Popular-level press coverage of my research
 nav: false
 nav_order: 5
