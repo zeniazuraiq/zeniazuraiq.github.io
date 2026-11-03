@@ -18,6 +18,7 @@ Some of the news coverage of <i>[Zuraiq et al., Astrophys. J. Lett. (2026)](http
 - [The Hindu](https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece)
 - [The Times of India](/assets/pdf/toi_coverage.pdf)
 - [EducationPost](https://educationpost.in/news/technology/iisc-white-dwarf-study-chandrasekhar-limit)
+- [Malayala Manorama (in Malayalam)](/assets/pdf/manorama.pdf)
 - [IISc press release](https://www.iisc.ac.in/events/strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/)
 
 
