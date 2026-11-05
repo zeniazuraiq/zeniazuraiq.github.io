@@ -7,7 +7,7 @@ importance: 1
 category: selected projects
 ---
 
-<i> You can find further details of this work in the following papers: [Zuraiq, Mukhopadhyay & Weber, Phys. Rev. D. (2024)](https://doi.org/10.1103/PhysRevD.109.023027), [Zuraiq et al., Universe 12 5, 130 (2026)](https://doi.org/10.3390/universe12050130) and [Zuraiq & Mukhopadhyay (submitted, 2026), arXiv: 2604.06308](https://arxiv.org/abs/2604.06308)</i>
+<i> You can find further details of this work in the following papers: [Zuraiq, Mukhopadhyay & Weber, Phys. Rev. D. (2024)](https://doi.org/10.1103/PhysRevD.109.023027), [Zuraiq et al., Universe 12 5, 130 (2026)](https://doi.org/10.3390/universe12050130) and [Zuraiq & Mukhopadhyay, JHEAp (accepted, 2026), arXiv: 2604.06308](https://arxiv.org/abs/2604.06308)</i>
 
 The first neutron star (a pulsar) was discovered accidentally by then graduate student Jocelyn Bell Burnell more than fifty years ago. Ever since, everything we learn about these objects confirms the fact that neutron stars are some of the most extreme objects in our Universe. A typical neutron star contains something like the mass of the sun within just a 10 km radius. At their cores, neutron stars can reach densities several times the nuclear saturation density (the densities within atoms). These stars are probably the only laboratory that we know of at present that exhibit matter existing in such extreme conditions. In fact, the conditions are so extreme within neutron stars that we still do not know the exact equation(s) of state (EoS) that governs these objects. Strong interactions particularly are poorly constrained at these high densities. This is why there is no fixed "Chandrasekhar" type exact limiting mass for neutron stars.
 
