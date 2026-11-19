@@ -11,6 +11,12 @@ horizontal: false
 
 ### TALKS, POSTERS
 
+- **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
+*Astrophysics & Cosmology Seminar, IISc, Bengaluru, India* | 11/26
+
+- **Online Talk**: Exploring the connections between magnetic white dwarfs and unusual observations \
+*GW Paleontology group meeting, University of California, San Diego, USA (Jun 2025)*
+
 - **Poster**: Simulating magnetized white dwarfs by time evolution: Chandrasekhar limit and beyond \
 *24th European Workshop on White Dwarfs, ISTA Klosterneuburg, Austria (Aug 2026)*
 
@@ -33,7 +39,7 @@ horizontal: false
 *IPTA Meeting 2025, California Institute of Technology, USA (Jun 2025)*
 
 -  **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
-*GW Paleontology group meeting, University of California, San Diego (Jun 2025)*
+*GW Paleontology group meeting, University of California, San Diego, USA (Jun 2025)*
 
 - **Talk**: Explaining unusual observations using magnetized white dwarfs \
 *43rd Meeting of the Astronomical Society of India, NIT Rourkela, Odisha (Feb 2025)*
@@ -42,13 +48,13 @@ horizontal: false
 *4th Symposium of the BRICS Association on Gravity, Astrophysics and Cosmology, SGT University, Gurugram, India (Dec 2024)*
 
 - **Poster**: Explaining unusual observations using magnetized white dwarfs \
-*In-House Symposium, Department of Physics, IISc (Nov 2024)*
+*In-House Symposium, Department of Physics, IISc, India (Nov 2024)*
 
 - **Talk**: Anisotropic neutron stars as mass gap candidates \
 *National conference on classical and quantum gravity, CUSAT, Cochin, India (Nov 2024)*
 
 - **Talk (invited)**: A journey towards compact star physics... and beyond! \
-*[Stella Maris College Research Day talk](../assets/pdf/stella.pdf), Stella Maris College, Chennai India (Sep 2024)*
+*[Stella Maris College Research Day talk](../assets/pdf/stella.pdf), Stella Maris College, Chennai, India (Sep 2024)*
 
 - **Talk**: Massive, magnetized neutron stars as mass gap objects \
 *[Seventeeth Marcel Grossmann meeting](https://indico.icranet.org/event/8/contributions/1591/), Pescara, Italy (Jul 2024)*
@@ -76,7 +82,7 @@ Won best poster award | [Link to poster](../assets/pdf/Inhouse_Nov2023.pdf)
 - **Online Talk (invited)** : Massive neutron stars: effects of EOSs vs magnetic field \
 *[London-Oldenburg Relativity Series](https://www.ucl.ac.uk/~ucahbha/london_oldenburg_relativity.html#:~:text=The%20aim%20of%20the%20London,the%20University%20of%20Oldenburg%2C%20Germany.) (Oct 2023)*
 
-- **(Online) Talk** : Massive neutron stars: effects of EOSs and magnetic field \
+- **Online Talk** : Massive neutron stars: effects of EOSs and magnetic field \
 *[ECT* workshop: Strongly interacting matter in extreme magnetic fields](https://indico.ectstar.eu/event/180/contributions/4192/), Trento, Italy (Sep 2023)*
 
 - **Poster** : Simulating magnetised super-Chandrasekhar white dwarf using STARS \
@@ -139,29 +145,29 @@ Talk II : Introducing interactions \
 
 ### TEACHING
 
-- Teaching tutorials for the course “Electomagnetism”, Azim Premji University, Bengaluru (Sep 2026 - Present)
+- Tutorials: “Electomagnetism”, Azim Premji University, Bengaluru (Sep 2026 - Nov 2026)
 
-- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2026 - Present)
+- Tutorials: “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2026 - Nov 2026)
 
-- PMRF Teaching Assistant for the NPTEL course: [Particle Physics and the Standard Model](https://zeniazuraiq.github.io/nptel/ppsm/) (Jan 2026 - Apr 2026) 
+- PMRF Teaching Assistant, NPTEL course: [Particle Physics and the Standard Model](https://zeniazuraiq.github.io/nptel/ppsm/) (Jan 2026 - Apr 2026) 
 
-- Teaching assistant for the course UPH203: Quantum Mechanics I for undergraduates and Int. Ph.D. students of IISc (Aug 2025 - Dec 2025)
+- Teaching assistant: UPH203 - Quantum Mechanics I, for undergraduates and Int. Ph.D. students of IISc (Aug 2025 - Dec 2025)
 
-- Teaching tutorials for the course “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2025 - Oct 2025)
+- Tutorials: “Mechanics and Waves II”, Azim Premji University, Bengaluru (Aug 2025 - Oct 2025)
 
-- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Oct 2025) 
+- PMRF Teaching Assistant, NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python_Jul25/) (Jul 2025 - Oct 2025) 
 
-- Teaching assistant for the course UPH202L: Intermediate Mechanics (Lab) for second year undergraduates (B.Sc./B.Tech.) of IISc (Jan 2025 - Apr 2025) 
+- Teaching assistant: UPH202L - Intermediate Mechanics (Lab), for second year undergraduates (B.Sc./B.Tech.) of IISc (Jan 2025 - Apr 2025) 
 
-- PMRF Teaching Assistant for the NPTEL course: [Programming, Data Structures And Algorithms Using Python](https://zeniazuraiq.github.io/nptel/python_Jan25/) (Jan 2025 - Mar 2025) 
+- PMRF Teaching Assistant, NPTEL course: [Programming, Data Structures And Algorithms Using Python](https://zeniazuraiq.github.io/nptel/python_Jan25/) (Jan 2025 - Mar 2025) 
 
 - PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Oct 2024) 
 
-- Taught a value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Jun 2024) 
+- Instructor: Value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Jun 2024) 
 
-- PMRF Teaching Assistant for the NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
+- PMRF Teaching Assistant, NPTEL course: [Nuclear Astrophysics](https://zeniazuraiq.github.io/nptel/nuclear_astro/) (Jan 2024 - Mar 2024) 
 
-- Teaching assistant for the course UPH101T: Introductory Mechanics for first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) [*Best TA Award*]
+- Teaching assistant: UPH101T -  Introductory Mechanics for first year undergraduates (B.Sc./B.Tech.) of IISc (Aug 2023 - Dec 2023) [*Best TA Award*]
 
 - Taught introductory astronomy to classes VI-X students at SPARC Public School, Bengaluru (Aug 2023 - Dec 2023)
 
