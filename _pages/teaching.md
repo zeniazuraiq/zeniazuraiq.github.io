@@ -12,10 +12,10 @@ horizontal: false
 ### TALKS, POSTERS
 
 - **Talk**: Simulating magnetized white dwarfs: Chandrasekhar limit and beyond \
-*Astrophysics & Cosmology Seminar, IISc, Bengaluru, India* | 11/26
+*Astrophysics & Cosmology Seminar, IISc, Bengaluru, India (Nov 2026)*
 
 - **Online Talk**: Exploring the connections between magnetic white dwarfs and unusual observations \
-*GW Paleontology group meeting, University of California, San Diego, USA (Jun 2025)*
+*GW Paleontology group meeting, University of California, San Diego, USA (Nov 2026)*
 
 - **Poster**: Simulating magnetized white dwarfs by time evolution: Chandrasekhar limit and beyond \
 *24th European Workshop on White Dwarfs, ISTA Klosterneuburg, Austria (Aug 2026)*
