@@ -161,7 +161,7 @@ Talk II : Introducing interactions \
 
 - PMRF Teaching Assistant, NPTEL course: [Programming, Data Structures And Algorithms Using Python](https://zeniazuraiq.github.io/nptel/python_Jan25/) (Jan 2025 - Mar 2025) 
 
-- PMRF Teaching Assistant for the NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Oct 2024) 
+- PMRF Teaching Assistant, NPTEL course: [The Joy of Computing using Python](https://zeniazuraiq.github.io/nptel/python/) (Jul 2024 - Oct 2024) 
 
 - Instructor: Value-added course on [introductory Astronomy and Astrophysics](https://zeniazuraiq.github.io/intro_astro/) at M.S. Ramaiah University of Applied Sciences (Apr 2024 - Jun 2024) 
 
