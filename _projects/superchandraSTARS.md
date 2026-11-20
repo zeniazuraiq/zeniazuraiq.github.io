@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Simulating super-Chandrasekhar white dwarfs
+title: simulating super-Chandrasekhar white dwarfs
 description: tracing the formation and evolution of massive, magnetized whtie dwarfs
 img: assets/img/bwd_hr_2.png
 importance: 2
 category: selected projects
 ---
 
-<i> You can find further details of this work here: [Zuraiq et al., Astrophys. J. Lett. (2026)](https://doi.org/10.3847/2041-8213/aea97e)</i>
+<i> You can find further details of this work here: [Zuraiq et al., Astrophys. J. Lett. (2026)](https://doi.org/10.3847/2041-8213/aea97e).</i>
 
 The famous Chandrasekhar limit was derived back in the 1930s, with Subrahmanyan Chandrasekhar receiving the Nobel Prize for it in 1983. However, this limit was derived under the assumption of ideal Fermi gases at zero temperatures. Further, effects like rotation and magnetic fields are not considered during the derivation. In fact, there are observations that indicate the violation of this mass limit. Several over-luminous peculiar type Ia supernovae, e.g. SN2003fg, argue their respective progenitor to be a significantly super-Chandrasekhar WD with a mass-limit higher than the Chandrasekhar limit. 
 
